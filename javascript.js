@@ -237,4 +237,3 @@ const categories = products
 .filter(product => product.category === 'electronics')
 .map(product => product.name);
 console.log("electronics:", kategorier);
-// const  korrigertFrukter =frukter.filter(frukt => frukt.startsWith('m')); bro what am i even doingggg, i'll fix it on sunday
